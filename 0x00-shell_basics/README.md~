@@ -1,5 +1,0 @@
-Script 0-current_working_directory prints the path name of the current working directory.
-
-Script 1-listit lists the contents of the current working directory.
-
-Script 2-bring_me_home changes the working directory to the user’s home directory.
