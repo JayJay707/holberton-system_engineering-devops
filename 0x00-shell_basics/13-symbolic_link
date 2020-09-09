@@ -1,2 +1,0 @@
-#!/bin/bash
-printf "$(ln /bin/ls __ls__)\n"
