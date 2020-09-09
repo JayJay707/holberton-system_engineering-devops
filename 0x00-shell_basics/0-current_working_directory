@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "The path of the current working directory is $(pwd)\n"
+printf "$(pwd)\n"
