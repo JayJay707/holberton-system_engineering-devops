@@ -1,0 +1,2 @@
+#!/bin/bash
+printf "$(mkdir /tmp/holberton)\n"
