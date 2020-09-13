@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$(sort < list | uniq)\n"
+uniq -u list | sort
