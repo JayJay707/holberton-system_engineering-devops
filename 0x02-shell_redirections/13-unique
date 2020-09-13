@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$(cat list | uniq -u | sort)\n"
+cat list | uniq -u | sort
