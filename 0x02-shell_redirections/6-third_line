@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$(cat iacta | head -3 | tail -1)\n"
+printf "$(cat iacta | head -2 | tail -1)\n"
