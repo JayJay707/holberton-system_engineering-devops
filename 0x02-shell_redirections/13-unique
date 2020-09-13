@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "$(uniq -u list | sort)\n"
+printf "$(uniq -ui list | sort)\n"
